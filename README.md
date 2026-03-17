@@ -5,22 +5,35 @@ This repo is meant to document the out-of-sample performance of a cryptocurrency
 
 
 # 60 days backtest
-<img width="2234" height="1917" alt="backtest_chart" src="https://github.com/user-attachments/assets/7c1aff8d-0b3f-4665-99af-e10eda625f40" />
+<img width="2234" height="1917" alt="backtest_chart" src="https://github.com/user-attachments/assets/4f54aa7d-7d81-4c53-a92e-b620a866677d" />
+
 
 **Summary**
 
   Period:            60.0 days
+  
   Final Equity:      $13,718.05
+  
   Total Return:      +37.18%
+  
   Annualized Return: +584.22%
 
   Sharpe Ratio:      25.754
+  
   Sortino Ratio:     3.194
+  
   Max Drawdown:      -0.90%
+  
   Calmar Ratio:      650.732
 
   Total Trades:      198
+  
   Trades/Day:        3.30
+  
   Win Rate:          91.4%
+  
   Avg Win:           $22.82
+  
   Avg Loss:          $-24.25
+
+
